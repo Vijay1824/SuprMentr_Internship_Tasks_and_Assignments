@@ -7,4 +7,5 @@ Repo for uploading all the assignments and tasks given during the internship
 
 
 
-[1]:internship Assignments.ipynb
+[1]:Internship\Assignments.ipynb
+
